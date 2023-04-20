@@ -5,7 +5,7 @@
 	- Rust's variable declaration is powerful and supports type inference (in case you didn't explicitly mention it) for mutable and immutable bindings.
 
 	```rust
-	let mut var_name: f64 69.69;
+	let mut var_name: f64 = 69.69;
 	```
 
 	![var](https://pbs.twimg.com/media/Ft2H0P0WIAIpGbw?format=jpg&name=small)
