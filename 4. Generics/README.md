@@ -189,4 +189,4 @@
 	![var](https://pbs.twimg.com/media/FuGrH-XXgAABL1v?format=jpg&name=small)
 
 
-You can refer to [this twitter thread](https://twitter.com/wiseaidev/status/1648356056781799426) for more info.
+You can refer to [this twitter thread](https://twitter.com/wiseaidev/status/1648787337910923269) for more info.
