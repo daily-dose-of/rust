@@ -5,4 +5,10 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - /
+  - 1.%20Quick%20Tour/README.md
+  - 2.%20Structs/README.md
+  - 3.%Enums/README.md
+  - 4.%Generics/README.md
+  - README.md
+  - assets
+  - LICENSE
