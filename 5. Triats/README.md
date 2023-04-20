@@ -321,4 +321,4 @@
 
 	![var](https://pbs.twimg.com/media/FuKoKJlXgAIjOT2?format=jpg&name=small)
 
-You can refer to [this twitter](https://twitter.com/wiseaidev/status/1649065526411550722) thread for more info.
+You can refer to [this twitter](https://twitter.com/wiseaidev/status/1649065476721442817) thread for more info.
