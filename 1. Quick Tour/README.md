@@ -77,4 +77,4 @@
 	
 	![var](https://pbs.twimg.com/media/Ft2Jyk4XoAE-IoE?format=jpg&name=small)
 
-You can refer to [this twitter thread](https://twitter.com/wiseaidev/status/1647625673073127427) for reference.
+You can refer to [this twitter thread](https://twitter.com/wiseaidev/status/1647625673073127427) for more info.
