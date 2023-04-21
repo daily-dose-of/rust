@@ -40,7 +40,7 @@
 
     - Although lifetimes and scopes are often referred to together, they are not the same thing.
     - A scope is used to define where a variable is valid.
-    - For example, consider this code that borrows a variable x twice in different scopes:
+    - For example, consider this code that borrows a variable `i` twice in different scopes:
 
 
 	```rust
